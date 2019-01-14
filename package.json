@@ -2,7 +2,7 @@
   "name": "vue-element-admin",
   "version": "3.10.0",
   "description": "A magical vue admin. Typical templates for enterprise applications. Newest development stack of vue. Lots of awesome features",
-  "author": "Pan <panfree23@gmail.com>",
+  "author": "White112 <software.developer112@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "cross-env BABEL_ENV=development webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -28,10 +28,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PanJiaChen/vue-element-admin.git"
+    "url": "git+https://github.com/white112/vue-element-admin.git"
   },
   "bugs": {
-    "url": "https://github.com/PanJiaChen/vue-element-admin/issues"
+    "url": "https://github.com/white112/vue-element-admin/issues"
   },
   "dependencies": {
     "axios": "0.18.0",
