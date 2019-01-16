@@ -1,5 +1,5 @@
 <template>
-  <a href="https://github.com/PanJiaChen/vue-element-admin" target="_blank" class="github-corner" aria-label="View source on Github">
+  <a href="https://github.com/white112/vue-element-admin" target="_blank" class="github-corner" aria-label="View source on Github">
     <svg
       width="80"
       height="80"
@@ -21,7 +21,7 @@
 </template>
 
 <style scoped>
-.github-corner:hover .octo-arm {
+.github-corner:hover .octo-body {
   animation: octocat-wave 560ms ease-in-out
 }
 
