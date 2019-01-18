@@ -124,11 +124,6 @@ npm run lint
 npm run lint -- --fix
 ```
 
-## Online Demo
-
-[Preview](http://panjiachen.github.io/vue-element-admin)
-
-
 ## Browsers support
 
 Modern browsers and Internet Explorer 10+.
